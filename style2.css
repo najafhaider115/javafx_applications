@@ -1,0 +1,36 @@
+*
+{
+  -fx-background-color:rgb(11, 202, 84);
+}
+
+
+Button
+{
+
+-fx-border-color: white;
+-fx-border-width:1px;
+}
+
+Label
+{
+  -fx-border-color: white;
+  -fx-border-width:1px; 
+  -fx-font-weight:bold;
+  -fx-text-align:center;
+  -fx-align-self: center;
+
+  -fx-padding:10px;
+}
+
+MenuBar
+{
+  -fx-color:white;
+  -fx-font-weight:bold;
+  -fx-text-align:center;
+  -fx-align-self: center;
+}
+MenuBar MenuItem
+{
+  -fx-border-color: white;
+-fx-border-width:1px; 
+}
